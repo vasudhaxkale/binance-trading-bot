@@ -1,0 +1,6 @@
+2025-06-23 23:29:40,804 ERROR: Connection Error: APIError(code=-2014): API-key format invalid.
+2025-06-23 23:42:34,661 ERROR: Error placing order: Invalid leading whitespace, reserved character(s), or return character(s) in header value: '\tyour_testnet_api_key'
+2025-06-23 23:45:12,881 ERROR: Error placing order: APIError(code=-2014): API-key format invalid.
+2025-06-25 00:04:26,268 - TradingBot - INFO - Bot initialized with testnet mode: True
+2025-06-25 00:04:26,328 - TradingBot - ERROR - Connection test failed: API Secret required for private endpoints
+2025-06-25 00:04:26,329 - TradingBot - ERROR - GUI order failed: Failed to connect to API: API Secret required for private endpoints
